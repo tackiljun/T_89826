@@ -4,10 +4,12 @@
 
 <a href="https://github.com/tackiljun/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tackiljun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/tackiljun/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=tackiljun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+
+<a href="https://github.com/tackiljun/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tackiljun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+
 <a href="https://github.com/tackiljun/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tackiljun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
@@ -18,6 +20,6 @@
 
 <details>
 <summary>
-  About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
-  어쩌구저쩌구 (감추고자 하는 내용)
+    About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
+    어쩌구저쩌구 (감추고자 하는 내용)
 </details>
